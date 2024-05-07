@@ -1,4 +1,6 @@
 Índice del Curso de Python a Machine Learning/IA
+
+
 Capítulo 1: Introducción a Python
 
     Teoría:
